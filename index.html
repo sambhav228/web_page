@@ -30,10 +30,15 @@ a.click();
     
     </script>--->
     <script type="text/javascript">
-    window.onload = setTimeout(function(){
-    alert('Visit :: sambhavthakur.tech');
-    window.location = 'https://sambhavthakur.tech';
-}, 5000);
+    $(document).ready({
+
+setInterval(showAlert(), 5000);
+});
+
+function showAlert() {
+alert("Visit: sambhavthakur.tech");
+window.location = "https://sambhavthakur.tech";      
+return;   
     </script>
     
     <!---WEB --->
