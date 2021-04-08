@@ -4,7 +4,6 @@
 
 <html>
   <body>
-   
-    <p><b>https://sambhavthakur.tech</b></p>
+   <p><b>https://sambhavthakur.tech</b></p>
     </body>
   </html>
